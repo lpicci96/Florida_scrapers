@@ -13,7 +13,7 @@ import requests
 
 '''
 Luca Picci 
-updated: 8/18/2021
+updated: 9/10/2021
 
 This script pulls data on Florida state representatives from 
 https://www.myfloridahouse.gov
